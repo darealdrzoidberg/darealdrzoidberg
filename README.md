@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @darealdrzoidberg
+- 👀 I’m interested in ... Rust
+- 🌱 I’m currently learning ... Clojure
+- 📫 How to reach me ... systemdfan@matrix.org
